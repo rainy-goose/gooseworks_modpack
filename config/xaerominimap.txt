@@ -1,12 +1,12 @@
 #CONFIG ONLY OPTIONS
-ignoreUpdate:157
+ignoreUpdate:202
 updateNotification:true
 settingsButton:false
 allowWrongWorldTeleportation:false
 #INGAME SETTINGS (DO NOT EDIT!)
 minimap:true
 caveMaps:true
-caveZoom:true
+caveZoom:false
 showPlayers:true
 showHostile:true
 showMobs:true
@@ -40,7 +40,7 @@ blockColours:0
 lighting:true
 dotsScale:1.0
 compassOverWaypoints:false
-showBiome:false
+showBiome:true
 showEntityHeight:true
 showFlowers:true
 keepWaypointNames:false
@@ -48,7 +48,7 @@ waypointsDistance:0.0
 waypointsDistanceMin:0.0
 waypointTp:tp
 arrowScale:1.5
-arrowColour:0
+arrowColour:1
 smoothDots:true
 playerHeads:false
 heightLimit:20
@@ -60,7 +60,6 @@ blockTransparency:true
 waypointOpacityIngame:80
 waypointOpacityMap:90
 hideWorldNames:false
-openSlimeSettings:true
 interface::0:36:true:false:false
 interface::0:36:true:false:false
 interface::0:36:true:false:false
